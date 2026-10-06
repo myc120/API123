@@ -1,0 +1,94 @@
+{
+  "Incoteco":[ {
+    "Florencia": [{
+      "Torre A": [{
+        "Piso 1":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 2":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 3":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 4":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 5":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 6":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 7":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }]
+      }],
+      "Torre B": [{
+        "Piso 1":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 2":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 3":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 4":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 5":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 6":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }],
+        "Piso 7":[{              
+          "1": "Detalles",
+          "2": "Detalles",
+          "3": "Detalles",
+          "4": "Detalles"
+        }]
+      }]
+    }]        
+  }]
+}
